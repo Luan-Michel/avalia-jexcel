@@ -9,11 +9,11 @@
  */
 
  if (! jSuites && typeof(require) === 'function') {
-    // var jSuites = require('jsuites');
+    var jSuites = require('jsuites');
 
-    var jSuites = require('../../jsuites-master/dist/jsuites');
+    // var jSuites = require('../../jsuites-master/dist/jsuites');
 
-    require('../../jsuites-master/dist/jsuites.css');
+    // require('../../jsuites-master/dist/jsuites.css');
 
 }
 
