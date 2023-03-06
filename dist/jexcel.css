@@ -173,6 +173,10 @@
     height: 23px;
 }
 
+.dados-aval-estudo > .jexcel_content > .jexcel > tbody > tr > .cell-score:empty{
+    border: 1px solid red !important;
+}
+
 .jexcel > tbody > tr > td:last-child
 {
     overflow:hidden;
